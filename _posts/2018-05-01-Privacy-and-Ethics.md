@@ -1,6 +1,6 @@
 # The Grand Social Media Experiment for Fake News
 
-> A report on how Facebook and certain social media were used to meddle in elections around the world and how the tech giants are using A/B testing to tackle it
+###### A report on how Facebook and certain social media were used to meddle in elections around the world and how the tech giants are using A/B testing to tackle it
 -------
 
 ##### Author : Akshi Chaudhary
@@ -32,4 +32,4 @@ source:[nytimes](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-
 
 > `Conclusion`
 
-Individuals on social media willingly divulge information, post about them, click like, visit pages they like and yet hold different privacy expectations within the different contexts. Facebook when started expected people to use the platform to connect, share and explore much like the internet. What become of these social media platforms is pandora box of misleading information, fake news and targeted ads. The most recently influence of social media in `Brexit` and `US Presidential election` are an example of how these platforms can be used to play with the user psychologically and influence their decision. Even when facebook and other tech companies realised of this issue they route they took to tackle it through A/B on users without `explicit` consent is ethically questionable. This study was small peek into the perils of social media experimentation and breach of privacy. 
+Individuals on social media willingly divulge information, post about them, click like, visit pages they like and yet hold different privacy expectations within the different contexts. Facebook when started expected people to use the platform to connect, share and explore much like the internet. What become of these social media platforms is pandora box of misleading information, fake news and targeted ads. The most recently influence of social media in `Brexit` and `US Presidential election` are an example of how these platforms can be used to play with the user psychologically and influence their decision. Even when facebook and other tech companies realised of this issue they route they took to tackle it through A/B on users without `explicit` consent is ethically questionable. This study was small peek into the perils of social media experimentation and breach of privacy.
