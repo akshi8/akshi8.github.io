@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title:  Akshi Chaudhary
+#title:  Akshi Chaudhary
 
 # Short description of your site
 description: This is where I write about my data adventures
@@ -42,22 +42,22 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#008B8B"
-navbar-text-col: "#404040"
-navbar-children-col: "#008B8B"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+navbar-col: "#79E9DE"
+navbar-text-col: "#595959"
+navbar-children-col: "#595959"
+#page-col: "#FFFFFF"
+link-col: "#808080"
+hover-col: "#11114E"
 footer-col: "#008B8B"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#595959"
+footer-link-col: "#808080"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/background.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
