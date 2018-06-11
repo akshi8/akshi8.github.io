@@ -1,7 +1,7 @@
 
 ## Topic: Predict risk of falling prey to online Sex Trade
 
-We, [Simran](https://github.com/simrnsethi) and I[https://github.com/akshi8/Risk-predictor] built a WebApp to identify individuals who are at risk of online sex-work based using machine learning algorithm for prediction and R-shiny for visualization.
+We, [Simran](https://github.com/simrnsethi) and (I)[https://github.com/akshi8/Risk-predictor] built a WebApp to identify individuals who are at risk of online sex-work based using machine learning algorithm for prediction and R-shiny for visualization.
 
 ## Event
 
