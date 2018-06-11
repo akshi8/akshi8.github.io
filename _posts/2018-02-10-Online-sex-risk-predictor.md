@@ -1,7 +1,7 @@
-# Online Sex-Work Risk Predictor
 
-#### Topic: Predict risk of falling prey to online Sex Trade
+## Topic: Predict risk of falling prey to online Sex Trade
 
+We, [Simran](https://github.com/simrnsethi) and I[https://github.com/akshi8/Risk-predictor] built a WebApp to identify individuals who are at risk of online sex-work based using machine learning algorithm for prediction and R-shiny for visualization.
 
 ## Event
 
@@ -10,7 +10,7 @@
 
 ## WebApp
 
-* The app can be found at : [Online Sex-Work Risk Predictor](https://akshi8.shinyapps.io/Risk-predictor/)
+* The app can be found at : [Online Sex-Work Risk Predictor](https://akshi8.shinyapps.io/Risk-predictor/). Explore yourself!
 
 ## Inspiration 💡
 
