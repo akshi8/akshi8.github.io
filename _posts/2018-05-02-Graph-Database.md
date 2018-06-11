@@ -7,7 +7,7 @@ What is Graph database you may ask? Similar to a network of connected nodes, a G
 In the picture below, **Person** is a node and **knows** is the relationship between the connected nodes. The Person node can hold unique values like a name to distinguish itself from other *person* nodes.
 
 
-![GraphDb Example 1](../img/Graph_database.jpg)
+![GraphDb Example 1](../img/Graph_database.png)
 
 
 
@@ -25,7 +25,7 @@ This allows queries to traverse or hop-over millions of connected nodes per seco
 
 With a graph database, you find a starting point and you traverse in the graph, identify the relevant relationships. For instance, you might write a query that asks, 'Find all of the friends of the friends of David who watched `IT` last weekend.' Instead of having to JOIN many different indexes (or tables as they are joined on indexes), the graphDB will use the already created relationships like "Friends_with", "Watched_movie" which would be already present in the network based on "activities" of David and his friends." Something like on Facebook, `what our friends are upto?` since Facebook captures likes and posts of our friends.
 
-![GraphDb Example: SQL_Vs_Graph ](../img/SQL_Vs_Graph.jpg)
+![GraphDb Example: SQL_Vs_Graph ](../img/SQL_Vs_Graph.PNG)
 
 
 Now that you are little warmed up with the idea of graphDB, after looking at it's compelling and ubiquitous applications you might wonder why GraphDb is making is rounds in tech. I have personally worked with graphDB using the most popular GraphDB platform `Neo4j` and if not this little blog, Neo4j's documentation can surely convert a pro-RDb to GraphDb-phile?
