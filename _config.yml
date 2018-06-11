@@ -25,9 +25,11 @@ description: This is where I write about my data adventures
 navbar-links:
   Blog: "https://akshi8.github.io/"
   Projects: 
-    - Data Science: "https://github.com/akshi8/tidyplusPy"
+    - Statistical Analysis: "https://github.com/akshi8/Sleep-Matters"
+    - Software Development: "https://github.com/akshi8/tidyplusPy"
     - Visualization: "https://akshi8.shinyapps.io/US_Crime_Report/"
-    - Social Good: "https://github.com/akshi8/Risk-predictor"
+    - Data Science for Social Good: "https://github.com/akshi8/Risk-predictor"
+    - More: "https://github.com/akshi8"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
