@@ -11,4 +11,4 @@ I also mentor and volunteer at the Vancouver tech events for women like [R-Ladie
 
 I am a huge advocate for `data science for social good`, in my free hours I explore data science applications to solve challenging social problems. I love playing basketball, watching stand-up comedy and on a sunny day hiking!
 
-Here is my online [resume](https://uptowork.com/mycv/akshiresume) if you want to know more about my experience, education and achievements.
+Here is my online [resume](https://drive.google.com/file/d/1KkWpV-WhFUGu9nX8J2dyJqp2bGprOoSH/view?usp=sharing) if you want to know more about my experience, education and achievements.
